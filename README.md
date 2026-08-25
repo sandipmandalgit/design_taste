@@ -45,11 +45,11 @@ design-taste/
 
 **Claude Code**
 ```bash
-git clone https://github.com/<sandipmandalgit>/design-taste ~/.claude/skills/design_taste
+git clone https://github.com/sandipmandalgit/design-taste ~/.claude/skills/design_taste
 ```
 or, if you use the skills CLI:
 ```bash
-npx skills add <sandipmandalatgit>/design_taste
+npx skills add sandipmandalatgit/design_taste
 ```
 
 **Claude.ai** — upload the packaged `design-taste.skill` file (or the folder zipped) via Settings → Skills, or paste `SKILL.md` as a project instruction.
