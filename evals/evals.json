@@ -1,0 +1,28 @@
+{
+  "skill_name": "design-taste",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Build me a landing page for an invoicing app for freelancers. React + Tailwind.",
+      "expected_output": "States intent and 2-3 personality adjectives; real copy (no lorem ipsum); one accent with tinted neutrals; no gradient text, glow blobs, or icon-in-circle grid; varied section composition; consistent radius/button system; only hero motion at most.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Here's my dashboard. It looks like every other SaaS dashboard, make it feel designed. Keep the same data. [Tailwind component with stat cards, a chart, and a table]",
+      "expected_output": "Diagnoses via rubric; values emphasized over labels; fewer borders/shadows; spacing scale enforced; one primary action; tabular numbers; specific before/after values.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Design the home screen for a meditation app.",
+      "expected_output": "Mobile rules applied: primary action in thumb zone, one glanceable key element, calm palette matched to adjectives, platform conventions respected, states designed, no decorative motion.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "Review this UI and tell me what's wrong. [screenshot or code]",
+      "expected_output": "Uses the review-rubric reporting format: verdict, top 3 fixes with specific values, per-dimension scores (Clear/Efficient/Smart/Connected/Polished), and a keep list."
+    }
+  ]
+}
