@@ -45,7 +45,7 @@ design-taste/
 
 **Claude Code**
 ```bash
-git clone https://github.com/sandipmandalgit/design-taste ~/.claude/skills/design_taste
+git clone https://github.com/sandipmandalgit/design_taste ~/.claude/skills/design_taste
 ```
 or, if you use the skills CLI:
 ```bash
